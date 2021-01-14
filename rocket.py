@@ -14,7 +14,7 @@ class Rocket:
         self.image = pygame.image.load('images/rocket.bmp')
         self.rect = self.image.get_rect()
         # Start the new rocket at the left side of the screen.
-        self.rect.left = self.screen_rect.left
+        self.rect.midleft = self.screen_rect.midleft
         # Store a decimal value for rocket's horizontal and vertical position.
         self.x = float(self.rect.x)
         self.y = float(self.rect.y)
