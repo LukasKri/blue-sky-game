@@ -39,7 +39,7 @@ To-do list for further improvement:
 * Tweak the user interface for a better look.
 
 ## Status
-Project is: _in progress_, because I had to pause it for now. I need to learn new tools ASAP to be able to pass a test and get among the lucky ones who gets invited to the WCC academy.
+Project is: _in progress_, because I had to pause it for now. I need to learn new tools ASAP to be able to pass a test and get among the lucky ones who gets invited to the well known academy.
 
 ## Inspiration
 Project inspired by Eric Matthes book Python Crash Course, thank you for introducing programming for me.
