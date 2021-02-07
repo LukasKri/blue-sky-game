@@ -1,5 +1,5 @@
 # Blue Sky
-> I created a simple game as my first project with Python!
+I created a simple game as my first project with Python!
 
 ## Table of contents
 * [General info](#general-info)
