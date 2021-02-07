@@ -6,6 +6,7 @@ I created a simple game as my first project with Python!
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
+* [Screenshot](#screenshot)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -37,6 +38,9 @@ To-do list for further improvement:
 * Create a scoring system for competitiveness.
 * Develop a leveling up to make it more challenging.
 * Tweak the user interface for a better look.
+
+## Screenshot
+![screenshot](https://user-images.githubusercontent.com/23439837/107153551-d37a5800-6976-11eb-8859-25a8c08d1727.jpg)
 
 ## Status
 Project is: _in progress_, because I had to pause it for now. I need to learn new tools ASAP to be able to pass a test and get among the lucky ones who gets invited to the well known academy.
